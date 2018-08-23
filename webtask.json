@@ -1,8 +1,8 @@
 {
   "title": "GitHub Deployments by Socrata :tm:",
-  "name": "auth0-github-deploy",
-  "version": "2.3.4",
-  "author": "auth0",
+  "name": "auth0-github-deploy-socrata",
+  "version": "2.3.5",
+  "author": "socrata",
   "description": "This extension gives Auth0 customers the possibility to deploy Pages, Rules and Custom Database Connections from GitHub.",
   "type": "application",
   "docsUrl": "https://auth0.com/docs/extensions/github-deploy",
