@@ -1,4 +1,4 @@
-# Auth0 GitHub Deployments
+# Auth0 GitHub Deployments by Socrata
 
 This extension makes it possible to deploy Rules and Database Connection scripts from GitHub to Auth0.
 

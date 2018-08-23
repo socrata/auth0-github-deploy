@@ -11,11 +11,11 @@ export default () => {
   <!DOCTYPE html>
   <html lang="en">
   <head>
-    <title>Auth0 - GitHub Deployments</title>
+    <title>Auth0 GitHub Deployments by Socrata</title>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="shortcut icon" href="https://cdn.auth0.com/styleguide/4.6.13/lib/logos/img/favicon.png">
+    <link rel="shortcut icon" href="https://raw.githubusercontent.com/socrata/opendatanetwork.com/master/images/favicon.ico">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" href="https://cdn.auth0.com/styles/zocial.min.css">
     <link rel="stylesheet" type="text/css" href="https://cdn.auth0.com/manage/v0.3.1715/css/index.min.css">
